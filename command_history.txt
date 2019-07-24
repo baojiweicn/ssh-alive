@@ -1,0 +1,53 @@
+hh
+what?
+ssh lqoptics
+ssh -u root -H 139.198.190.221 -p 22
+ssh a -u root -H 139.198.190.221 -p 22
+exit
+ssh -u root -H 139.198.190.221 -p 22
+ssh a -u root -H 139.198.190.221 -p 22
+ssh a -u ubuntu -H 139.198.190.221 -p 22
+a
+ssh a -u ubuntu -H 139.198.190.221 -p 22
+exit
+ssh a -u ubuntu -H 139.198.190.221 -p 22
+
+l
+ssh a -u ubuntu -H 139.198.190.221 -p 22
+ls
+ssh a -u ubuntu -H 139.198.190.221 -p 22
+ls
+ssh a -u ubuntu -H 139.198.190.221 -p 22
+
+lsls
+s
+xt
+xi
+xt
+exit
+ssh a -u ubuntu -H 139.198.190.221 -p 22
+s
+
+xit
+ei
+xt
+exit
+ssh a -u ubuntu -H 139.198.190.221 -p 22
+
+l
+ei
+xt
+exit
+ssh a -u ubuntu -H 139.198.190.221 -p 22
+sl
+exit
+ssh a -u ubuntu -H 139.198.190.221 -p 22
+
+lsl
+ssh a -u ubuntu -H 139.198.190.221 -p 22
+et
+ssh a -u ubuntu -H 139.198.190.221 -p 22
+s
+
+ssh a -u ubuntu -H 139.198.190.221 -p 22
+sl
